@@ -1,10 +1,19 @@
-### Hi there, I'm Himanshu 👋  
-🎓 Final-year B.Tech CSE Student | 💻 Full Stack Developer | 📊 DSA Learner
+# 👋 Hi, I'm Himanshu Mishra
 
-- 🔭 Currently working on FinTrack – AI-powered finance manager  
-- 🌱 Improving DSA and working on scalable Node.js apps  
-- 🧠 Learning System Design fundamentals  
-- 📫 Connect with me: [LinkedIn](https://linkedin.com/in/himanshu200209)
+🚀 Final-year B.Tech CSE student | Full Stack Developer  
+🎯 Passionate about building scalable and user-focused web apps  
+🛠️ Tech: React, Next.js, Node.js, MongoDB, Tailwind, Supabase, Prisma
+
+## 🧰 Projects
+
+- [💸 FinTrack](https://fin-track-roan.vercel.app) – Full-stack finance platform powered by Gemini AI  
+- [🌦 Weather Widget](https://weather-widget-xi-two.vercel.app) – React + MUI weather app  
+- [🏠 Rental Platform](https://github.com/Himanshu200209/RentalApp) – Backend-heavy Airbnb clone  
+
+📫 Reach me:  
+- [LinkedIn](https://linkedin.com/in/himanshu200209)  
+- [GitHub](https://github.com/Himanshu200209)
+://linkedin.com/in/himanshu200209)
 
 ### 🚀 Tech Stack:
 React · Node.js · MongoDB · Next.js · Express · Prisma · Supabase · Git
