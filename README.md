@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Himanshu 👋  
+🎓 Final-year B.Tech CSE Student | 💻 Full Stack Developer | 📊 DSA Learner
 
-<!--
-**Himanshu200209/Himanshu200209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working on FinTrack – AI-powered finance manager  
+- 🌱 Improving DSA and working on scalable Node.js apps  
+- 🧠 Learning System Design fundamentals  
+- 📫 Connect with me: [LinkedIn](https://linkedin.com/in/himanshu200209)
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack:
+React · Node.js · MongoDB · Next.js · Express · Prisma · Supabase · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats:
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himanshu200209&show_icons=true&theme=tokyonight)
